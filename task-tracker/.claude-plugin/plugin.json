@@ -1,0 +1,10 @@
+{
+  "name": "task-tracker",
+  "version": "0.1.0",
+  "description": "Track personal tasks from the Claude Code terminal: add, complete, list by period, and view a read-only progress dashboard.",
+  "author": {
+    "name": "rahul"
+  },
+  "license": "MIT",
+  "keywords": ["productivity", "tasks", "todo", "dashboard"]
+}
