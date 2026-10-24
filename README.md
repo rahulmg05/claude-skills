@@ -40,4 +40,4 @@ claude-skills/
 
 ## License
 
-MIT
+Public domain, under [The Unlicense](LICENSE). You can use this code for any purpose, with no conditions.

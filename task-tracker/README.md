@@ -80,4 +80,4 @@ Claude runs `scripts/tasks.py` for each request. You can also run the script you
 
 ## License
 
-MIT
+Public domain, under [The Unlicense](../LICENSE). You can use this code for any purpose, with no conditions.
