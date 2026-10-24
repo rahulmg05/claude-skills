@@ -7,7 +7,7 @@ Each plugin adds one or more skills. Claude uses a skill when your request match
 
 | Plugin | Description |
 |---|---|
-| [task-tracker](task-tracker/) | Track personal tasks from the terminal. Add and complete tasks, list them by period, and view a read-only progress dashboard. |
+| [task-tracker](task-tracker/) | Track personal tasks from the terminal. Move tasks through Not Started, In Progress, Blocked, and Done, list them by status or period, and view a read-only board. |
 
 ## Installation
 

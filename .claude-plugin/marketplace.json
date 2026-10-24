@@ -10,7 +10,7 @@
     {
       "name": "task-tracker",
       "source": "./task-tracker",
-      "description": "Track personal tasks from the Claude Code terminal: add, complete, list by period, and view a read-only progress dashboard.",
+      "description": "Track personal tasks from the Claude Code terminal: move tasks through Not Started, In Progress, Blocked, and Done, list them by status or period, and view a read-only board.",
       "category": "productivity",
       "keywords": ["productivity", "tasks", "todo", "dashboard"]
     }
